@@ -4,7 +4,7 @@ Opdracht: Voeg één of meerdere van volgende families toe:
 - [Griffin (Family Guy)](https://en.wikipedia.org/wiki/Griffin_family)
 - [Dunphy (Modern Family)](https://en.wikipedia.org/wiki/List_of_Modern_Family_characters)
 - [Pritchett-Delgado (Modern Family)](https://en.wikipedia.org/wiki/List_of_Modern_Family_characters)
-- [Tucker-Pritchet (Modern Family)]](https://en.wikipedia.org/wiki/List_of_Modern_Family_characters)
+- [Tucker-Pritchet (Modern Family)](https://en.wikipedia.org/wiki/List_of_Modern_Family_characters)
 
 Werkwijze:
 - Per familie een eigen feature branch
