@@ -4,14 +4,19 @@
 
 ## Configuratie ##
 
-Stap 1:
+Stap 1: (alleen de admin van een team)
 
-Maak **per team** een fork van deze repository (op Github, rechtsbovenin het scherm) Deze fork wordt de repository die je als groep gaat gebruiken voor de volgende opdrachten
+Maak **per team** een fork van deze repository (op Github, rechtsbovenin het scherm) Deze fork wordt de repository die je als groep gaat gebruiken voor de volgende opdrachten.
 
-Stap 2:
+Stap 2: (alleen de admin van een team)
 
 Ga naar **settings** van de fork-repository, en dan naar **branches**.
 Stel onder **protection rules** voor de "master" branche in dat er altijd een pull request nodig is en dat dit ook voor administrators geldt.
+
+Stap 3: (alleen de admin van een team)
+
+Voeg je teammembers toe als collaborators van het team
+
 
 ## Opdrachten ##
 
