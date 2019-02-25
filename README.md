@@ -82,7 +82,9 @@ Voeg de volgende families toe:
 - Op de index.html moet een link naar de familie komen
 - Klaar? Push de feature branch naar Github en maak een pull request aan om het in de master te zetten.
 
-*Let op: het zou kunnen dat Github in eerste instantie voorstelt om het naar niektenhoopen/git-flow-demo:master te mergen. Pas dit aan naar de master branch van je fork repository*
+### LET OP: ###
+*Het zou kunnen dat Github bij het aanmaken van een pull request in eerste instantie voorstelt om het naar niektenhoopen/git-flow-demo:master te mergen. Pas dit aan naar de master branch van je fork repository*
+
 
 #### Opdracht 2: Familie "Duckf?" ####
 Er zitten fouten in de namen van de Duck familieleden. Corrigeer de fouten.
