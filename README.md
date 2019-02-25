@@ -1,6 +1,6 @@
 # Git flow demo
 
-##Configuratie##
+## Configuratie ##
 
 Stap 1:
 
@@ -11,9 +11,9 @@ Stap 2:
 Ga naar **settings** van de fork-repository, en dan naar **branches**.
 Stel onder **protection rules** voor de "master" branche in dat er altijd een pull request nodig is en dat dit ook voor administrators geldt.
 
-##Opdrachten##
+## Opdrachten ##
 
-####Opdracht 1: We missen families!####
+#### Opdracht 1: We missen families! ####
 
 Voeg de volgende families toe:
 
@@ -42,7 +42,7 @@ Voeg de volgende families toe:
   - Lily
   - Larry
 
-####Werkwijze:####
+#### Werkwijze: ####
 
 - Per familie een eigen feature branch
 - Per familie 1 overzichtspagina (zie Simpson/Duck familie)
@@ -52,10 +52,10 @@ Voeg de volgende families toe:
 
 *Let op: het zou kunnen dat Github in eerste instantie voorstelt om het naar niektenhoopen/git-flow-demo:master te mergen. Pas dit aan naar de master branch van je fork repository*
 
-####Opdracht 2: Familie "Duckf?"####
+#### Opdracht 2: Familie "Duckf?" ####
 Er zitten fouten in de namen van de Duck familieleden. Corrigeer de fouten.
 
-####Werkwijze:####
+#### Werkwijze: ####
 - Per familie een eigen feature branch.
 - Per correctie (dus per familielid) 1 commit binnen de feature branch.
 - Klaar? Push de feature branch naar Github en maak een pull request aan om het in de master te zetten
