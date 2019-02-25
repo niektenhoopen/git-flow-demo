@@ -20,6 +20,31 @@ Voeg je teammembers toe als collaborators van het team
 
 ## Opdrachten ##
 
+Hulpmiddelen:
+
+[Using branches tutorial van Atlassian](https://cs.atlassian.com/git/tutorials/using-branches)
+
+Branches:
+
+- Overzicht branches:
+```git branch```
+- Branch toevoegen: ```git branch blabla```
+- Wisselen naar ‘blabla’ branch: ```git checkout blabla```
+- Alles in 1x: (deze maakt een branch aan en wisselt er naartoe) ```git checkout -b blabla```
+- Alle branches bekijken: (incl remote) ```git branch -a```
+
+
+Pushen:
+
+- Pushen doe je naar je eigen branch: ```git push origin blabla```
+
+Weergeven tree:
+
+- De ‘tree’ weergeven in de command line: ```git log --graph --all```
+- Of one-line: ```git log --graph --oneline --all```
+
+
+
 #### Opdracht 1: We missen families! ####
 
 Voeg de volgende families toe:
