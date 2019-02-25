@@ -1,5 +1,7 @@
 # Git flow demo
 
+![img](https://wac-cdn.atlassian.com/dam/jcr:b5259cce-6245-49f2-b89b-9871f9ee3fa4/03%20(2).svg?cdnVersion=lb "Gitflow (Atlassian)")
+
 ## Configuratie ##
 
 Stap 1:
